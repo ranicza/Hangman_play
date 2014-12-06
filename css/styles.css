@@ -1,0 +1,32 @@
+#letter{
+    width: 5%;
+}
+.row, #letter{
+    text-align: center;
+}
+#check, #restart{
+    border-radius: 60%;
+}
+img{
+    margin-top: 3%;
+}
+#word{
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 180%;
+}
+#question{
+    font-size: 130%;
+    font-style: italic;
+}
+#show-image p{
+    font-weight: bolder;
+}
+#wrong-letters{
+    font-style: italic;
+    margin-top: 2%;
+}
+#wrong{
+    font-style: normal;
+    font-weight: bolder;
+}
